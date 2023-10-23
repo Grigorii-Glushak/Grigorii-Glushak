@@ -28,7 +28,7 @@
 
 ## Сертификаты подтверждающие компетенции
 ## Яндекс.Практикум
-<img src="YA%2001.jpg" alt="drawing" width="200"/>
+<img src="YA%2001.jpg" alt="YA%2001" width="200"/>
 ![Сертификат от Яндекс.Практикума|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg)
 ![Сертификат от Яндекс.Практикума|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2002.jpg)
 ## Kaggle
