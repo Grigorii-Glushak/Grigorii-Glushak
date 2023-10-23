@@ -32,5 +32,3 @@
 
 ## Kaggle
 <img src="Grigorii%20Glushak%20-%20Intro%20to%20Programming.png" alt="Grigorii%20Glushak%20-%20Intro%20to%20Programming" width="200"/> <img src="Grigorii%20Glushak%20-%20Pandas.png" alt="Grigorii%20Glushak%20-%20Pandas" width="200"/>
-![Сертификат от Kaggle|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/Grigorii%20Glushak%20-%20Intro%20to%20Programming.png)
-![Сертификат от Kaggle|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/Grigorii%20Glushak%20-%20Pandas.png)
