@@ -27,8 +27,8 @@
 
 
 ## Сертификаты подтверждающие компетенции
-## Яндекс.Практикум
+### Яндекс.Практикум
 <img src="YA%2001.jpg" alt="YA%2001" width="200"/> <img src="YA%2002.jpg" alt="YA%2002" width="200"/>
 
-## Kaggle
+### Kaggle
 <img src="Grigorii%20Glushak%20-%20Intro%20to%20Programming.png" alt="Grigorii%20Glushak%20-%20Intro%20to%20Programming" width="200"/> <img src="Grigorii%20Glushak%20-%20Pandas.png" alt="Grigorii%20Glushak%20-%20Pandas" width="200"/>
