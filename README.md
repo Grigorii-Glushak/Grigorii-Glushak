@@ -28,9 +28,8 @@
 
 ## Сертификаты подтверждающие компетенции
 ## Яндекс.Практикум
-![Сертификат от Яндекс.Практикума](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg?raw=true)
-
-![Сертификат от Яндекс.Практикума](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2002.jpg)
+[Сертификат от Яндекс.Практикума](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg?raw=true)
+[Сертификат от Яндекс.Практикума](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2002.jpg)
 ## Kaggle
 ![Сертификат от Kaggle|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/Grigorii%20Glushak%20-%20Intro%20to%20Programming.png)
 ![Сертификат от Kaggle|50](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/Grigorii%20Glushak%20-%20Pandas.png)
