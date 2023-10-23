@@ -10,7 +10,7 @@
 
 ## Сертификаты подтверждающие компетенции
 ## Яндекс.Практикум
-![Энгельбарт|25](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg)
+![Энгельбарт|10](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg)
 
 ## Kaggle
 
