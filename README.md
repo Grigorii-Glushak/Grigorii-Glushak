@@ -10,7 +10,8 @@
 
 ## Сертификаты подтверждающие компетенции
 ## Яндекс.Практикум
-https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg
+[Энгельбарт]([https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg](https://github.com/Grigorii-Glushak/Grigorii-Glushak/blob/main/YA%2001.jpg))
+
 ## Kaggle
 
 ## Краткий обзор репозитория и выполненных проектов
