@@ -32,3 +32,6 @@
 
 ### Kaggle
 <img src="Grigorii%20Glushak%20-%20Intro%20to%20Programming.png" alt="Grigorii%20Glushak%20-%20Intro%20to%20Programming" width="200"/> <img src="Grigorii%20Glushak%20-%20Pandas.png" alt="Grigorii%20Glushak%20-%20Pandas" width="200"/>
+
+### Other
+<img src="Тренировки%20по%20Machine%20Learning%20(Алгоритмы%204.0).jpg" alt="Тренировки%20по%20Machine%20Learning%20(Алгоритмы%204.0)" width="200"/> <img src="GPT-WEEK.jpg" alt="GPT-WEEK" width="200"/>
